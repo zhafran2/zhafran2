@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhafran2
 - 👀 I’m interested in developing and algorithm
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently have skills in javascript,python, and typescript
 - 💞️ I’m looking to collaborate on digital project
 - 📫 How to reach me +6282167498763
 - 😄 Pronouns: Zhafran
